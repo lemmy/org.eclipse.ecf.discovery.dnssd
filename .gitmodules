@@ -1,9 +1,9 @@
 [submodule "org.eclipse.ecf.discovery.dnssd.feature"]
 	path = org.eclipse.ecf.discovery.dnssd.feature
-	url = git@github.com:lemmy/org.eclipse.ecf.discovery.dnssd.feature.git
+	url = git://github.com/lemmy/org.eclipse.ecf.discovery.dnssd.feature.git
 [submodule "org.eclipse.ecf.tests.provider.dnssd"]
 	path = org.eclipse.ecf.tests.provider.dnssd
-	url = git@github.com:lemmy/org.eclipse.ecf.tests.provider.dnssd.git
+	url = git://github.com/lemmy/org.eclipse.ecf.tests.provider.dnssd.git
 [submodule "org.eclipse.ecf.provider.dnssd"]
 	path = org.eclipse.ecf.provider.dnssd
-	url = git@github.com:lemmy/org.eclipse.ecf.provider.dnssd.git
+	url = git://github.com/lemmy/org.eclipse.ecf.provider.dnssd.git
