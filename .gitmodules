@@ -7,3 +7,6 @@
 [submodule "org.eclipse.ecf.provider.dnssd"]
 	path = org.eclipse.ecf.provider.dnssd
 	url = git://github.com/lemmy/org.eclipse.ecf.provider.dnssd.git
+[submodule "org.eclipse.ecf.osuosl.releng.bm"]
+	path = org.eclipse.ecf.osuosl.releng.bm
+	url = git://github.com/lemmy/org.eclipse.ecf.osuosl.releng.bm.git
